@@ -11,7 +11,7 @@
 
 - 🌱 Learn more about me at [https://www.linkedin.com/in/brennanpollock/](https://www.linkedin.com/in/brennanpollock/)
 
-- ⚡ Fun fact **I was training to be a priest before switching to software.**
+- ⚡ Fun fact: **I was training to be a priest before switching to software.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
