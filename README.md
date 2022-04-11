@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brennan!</h1>
 <h3 align="center">A full stack software engineer from Nashville</h3>
 
-- 🌱 I’m currently learning **C#, React Native, PHP**
+- 🌱 I’m currently learning **TypeScript and Rust**
 
 - 👨‍💻 All of my projects are available at [brennankapollock.com](brennankapollock.com)
 
@@ -11,7 +11,7 @@
 
 - 🌱 Learn more about me at [https://www.linkedin.com/in/brennanpollock/](https://www.linkedin.com/in/brennanpollock/)
 
-- ⚡ Fun fact: **I was training to be a priest before switching to software.**
+- ⚡ Fun fact: **I was training to be a priest before switching to engineering.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
