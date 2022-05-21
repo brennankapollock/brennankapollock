@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Brennan!</h1>
-<h3 align="center">A full stack software engineer from Nashville</h3>
+<h3 align="center">a full stack software engineer from nashville currently working at lyft</h3>
 
 - 🌱 I’m currently learning **TypeScript and Rust**
 
-- 👨‍💻 All of my projects are available at [brennankapollock.com](brennankapollock.com)
+- 👨‍💻 All of my projects are available at [brennankapollock.com](brennankapollock.com) which is a work in progress
 
 - 📝 I regularly write articles on [https://bitsandbeing.hashnode.dev/](https://bitsandbeing.hashnode.dev/)
 
