@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Brennan!</h1>
-<h3 align="center">a full stack software engineer from nashville currently working at lyft</h3>
+<h3 align="center">a full stack software engineer from los angeles currently working at liberty mutual</h3>
 
 - 🌱 I’m currently learning **TypeScript and Rust**
 
