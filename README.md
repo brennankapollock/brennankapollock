@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Brennan!</h1>
-<h3 align="center">a full stack software engineer from los angeles currently working at liberty mutual</h3>
+<h3 align="center">a full stack software engineer from los angeles currently working at principal financial</h3>
 
 - 🌱 I’m currently learning **TypeScript and Rust**
 
 - 👨‍💻 All of my projects are available at [brennankapollock.com](brennankapollock.com) which is a work in progress
 
-- 📝 I regularly write articles on [https://bitsandbeing.hashnode.dev/](https://bitsandbeing.hashnode.dev/)
-
-- 📫 How to reach me **brennankapollock@gmail.com**
+- 📫 How to reach me **mail@brennankapollock.com**
 
 - 🌱 Learn more about me at [https://www.linkedin.com/in/brennanpollock/](https://www.linkedin.com/in/brennanpollock/)
 
