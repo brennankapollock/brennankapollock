@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Brennan!</h1>
-<h3 align="center">a full stack software engineer from los angeles currently working at principal financial</h3>
+<h3 align="center">a full stack software engineer from venice beach currently working at principal financial</h3>
 
-- 🌱 I’m currently learning **TypeScript and Rust**
-
-- 👨‍💻 All of my projects are available at [brennankapollock.com](brennankapollock.com) which is a work in progress
+- 👨‍💻 All of my creative projects (poems, essays, scripts) are available at [brennankapollock.com](brennankapollock.com)
 
 - 📫 How to reach me **mail@brennankapollock.com**
 
