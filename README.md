@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Brennan!</h1>
 <h3 align="center">a full stack software engineer from venice beach currently working at principal financial</h3>
 
-- 👨‍💻 All of my creative projects (poems, essays, scripts) are available at [brennankapollock.com](brennankapollock.com)
+- 👨‍💻 All of my creative projects (poems, essays, scripts) are available at [brennankapollock.com](https://www.brennankapollock.com)
 
 - 📫 How to reach me **mail@brennankapollock.com**
 
